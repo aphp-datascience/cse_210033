@@ -1,0 +1,84 @@
+# personal
+.DS_Store
+
+# IDE
+.idea/
+.nfs*
+venv/
+.venv/
+.venv_annotation/
+.vscode
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+*.ipynb
+.ipynb_checkpoints
+__target__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+init
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*cover
+.hypothesis/
+.pytest_cache/
+
+# IPython Notebook
+*.ipynb_checkpoints
+**/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb
+*ipynb_checkpoints*
+*-checkpoint*
+notebooks/annotation/*
+*.ipynb_checkpoints*
+cse_210033/.ipynb_checkpoints
+cse_210033/__pycache__
+
+# Data
+*.csv
+*.xls
+*.xlsx
+*.pickle
+*.pkl
+*.html
+*.pdf
+
+# Kernel
+kernel.json
+
+# Logs
+**/lightning_logs
