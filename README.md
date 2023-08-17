@@ -3,19 +3,20 @@
 
 <div align="center">
     <img src="logo.svg" alt="EDS-TeVa">
-
 <p align="center">
-<a href="https://github.com/psf/black" target="_blank">
-    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Black">
-</a>
+<a href="https://zenodo.org/badge/latestdoi/679397420"><img src="https://zenodo.org/badge/679397420.svg" alt="DOI"></a>
 <a href="https://python-poetry.org/" target="_blank">
-    <img src="https://img.shields.io/badge/reproducibility-poetry-blue" alt="Poetry">
+    <img src="https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json"
+    alt="Poetry">
 </a>
 <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-%3E%3D%203.7.1%20%7C%20%3C%203.8-brightgreen" alt="Supported Python versions">
 </a>
 <a href="https://spark.apache.org/docs/2.4.8/" target="_blank">
     <img src="https://img.shields.io/badge/spark-2.4-brightgreen" alt="Supported Java version">
+</a>
+<a href="https://github.com/psf/black" target="_blank">
+    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Black">
 </a>
 </p>
 </div>
